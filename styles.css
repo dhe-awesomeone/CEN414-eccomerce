@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  width: fit-content !important;
+}
+.tales {
+    width: 100%;
+  }
+  .carousel-inner{
+    width:100%;
+    max-height: 200px !important;
+  }
+  input .ex3 {
+    display:flex;
+  }
+  .col-xs-4{
+    display: contents;
+  }
+  .inputbtn{
+    padding-left: 1.5em !important;
+  }
+ div > .item-qty{
+    text-align: center;    
+}
+.plus, .minus{
+    border-radius: 40%;
+    border: solid 1px #000;
+    text-align: center;
+}
+.quantity{
+    text-align: center;
+    width: 3rem;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+  -webkit-appearance: none;
+  margin: 0;
+}
+.btn{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,.2);
+  background-color: blue;
+}
+.navbar{
+  height: 6rem;
+}
+.navbar-brand{
+  margin-right: 1.5rem;
+  margin-left: 0.5rem;
+}
+.container{
+  
+  display: contents;
+}
+img{
+  margin: 2em !important;
+  width: 65%;
+  padding: 10px;
+  height: 70% !important;
+  align-content: center !important;
+}
+.col{
+  align-items: center !important;
+  align-content: center !important;
+  justify-content: center;
+}
+.item-qty{
+  margin-bottom: 3%;
+  padding-bottom: 4%;
+}
+.row{
+  margin: 5em;
+  padding: 10px;
+}
+button.addtocart{
+  display: flex !important;
+  border-radius: 30%;
+  align-items: center !important;
+  align-content: center !important;
+  justify-content: center !important;
+  justify-self: center !important;
+  justify-items: center !important;
+  align-self: center !important;
+}
+div.container-fluid .addtocart {
+  font-size: 20px;
+  font-weight: bold;
+  font-weight: normal;
+  display: inline-block;
+  margin: auto;
+}
+.cart{
+  align-content: center !important;
+  justify-content: center;
+}
